@@ -27,11 +27,11 @@ This repository contains a complete implementation of a **Human Face Emotion Det
 │   └── emotion_model_final.h5   # Pre-trained CNN model
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project description and instructions
-
+```
 
 ---
 
-## **Getting Started**
+## **Getting Started** 
 
 ### **Prerequisites**
 1. Python 3.8 or later installed.
