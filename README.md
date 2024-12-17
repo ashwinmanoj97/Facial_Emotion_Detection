@@ -1,4 +1,3 @@
-```markdown
 # **Emotion Detection System**
 
 This repository contains a complete implementation of a **Human Face Emotion Detection System** using Python, OpenCV, TensorFlow, and Keras. It employs a **Convolutional Neural Network (CNN)** architecture and is pre-trained on the **FER-2013 dataset**.
@@ -28,7 +27,7 @@ This repository contains a complete implementation of a **Human Face Emotion Det
 │   └── emotion_model_final.h5   # Pre-trained CNN model
 ├── requirements.txt             # Python dependencies
 └── README.md                    # Project description and instructions
-```
+
 
 ---
 
